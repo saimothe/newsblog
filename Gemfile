@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "rails", "3.2.13"
 
 # Bundle edge Rails instead:
+#Siomething
 # gem "rails", :git => "git://github.com/rails/rails.git"
 
 gem "mysql2"
